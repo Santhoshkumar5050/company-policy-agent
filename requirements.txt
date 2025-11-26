@@ -1,0 +1,7 @@
+langchain
+langgraph
+pymilvus
+sentence-transformers
+pypdf
+streamlit
+langchain-ollama
